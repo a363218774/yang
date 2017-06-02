@@ -5,3 +5,4 @@ git tracks changes of files
 hello
 github.com
 ssh
+git checkout
