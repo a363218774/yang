@@ -7,3 +7,4 @@ github.com
 ssh
 git checkout
 craeting a new branch is quick & simple
+feature1
